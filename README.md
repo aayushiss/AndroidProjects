@@ -1,10 +1,14 @@
 # dicee
 
-A new Flutter project.
+A simple and fun dice-rolling app built with Flutter.
 
+## Features
+
+- **Tap to Roll**: Tap the screen to roll the dice.
+- **Random Outcomes**: Get random outcomes with each roll.
+- **Beautiful Interface**: Enjoy a clean and intuitive user interface.
+  
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
